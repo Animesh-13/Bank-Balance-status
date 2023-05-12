@@ -179,9 +179,9 @@ const updateUI = function (acc) {
 let currentAccount;
 
 // FAke Always logged in
-currentAccount = account1;
-updateUI(currentAccount);
-containerApp.style.opacity = 100;
+// currentAccount = account1;
+// updateUI(currentAccount);
+// containerApp.style.opacity = 100;
 
 // Experimenting API
 // const now = new Date();
