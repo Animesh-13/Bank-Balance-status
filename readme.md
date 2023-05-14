@@ -1,4 +1,4 @@
-# Bank Banlance check
+# Bank Balance check
 
 ## Dummy username password
 
